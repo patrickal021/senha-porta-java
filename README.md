@@ -1,43 +1,43 @@
-# Lista de Compras em Java
+# Projetos Java
 
-Projeto simples desenvolvido em Java para praticar lógica de programação.
+Repositório com pequenos projetos desenvolvidos em Java para praticar programação, lógica e estruturas da linguagem.
 
-## Funcionalidades
+## Projetos
 
-- Adicionar itens
-- Exibir lista
-- Manipulação de entrada do usuário
+### 1. Primeiro Projeto
+Breve descrição do seu primeiro projeto.
 
-## Conceitos praticados
-
-- Scanner
-- ArrayList (se usou)
-- Loops
-- if/else
+**Conceitos praticados:**
+- Java básico
 - Variáveis
+- Entrada e saída de dados
+- (o que você usou nele)
 
-## Tecnologias
+---
 
-- Java
-- IntelliJ IDEA# Lista de Compras em Java
+### 2. Sistema de Porta com Senha
 
-Projeto simples desenvolvido em Java para praticar lógica de programação.
+Projeto simples de autenticação em Java.
 
-## Funcionalidades
+**Funcionalidades:**
+- Senha padrão (`1234`)
+- Senha mestra (`admin`)
+- Limite de 3 tentativas
+- Bloqueio do sistema
+- Uso de `.trim()`
 
-- Adicionar itens
-- Exibir lista
-- Manipulação de entrada do usuário
-
-## Conceitos praticados
-
+**Conceitos praticados:**
 - Scanner
-- ArrayList (se usou)
-- Loops
 - if/else
-- Variáveis
+- Operador lógico `||`
+- do while
+- Comparação de Strings
 
 ## Tecnologias
 
 - Java
 - IntelliJ IDEA
+
+## Autor
+
+Patrick Almeida
