@@ -1,56 +1,43 @@
-# Sistema de Porta com Senha em Java
+# Lista de Compras em Java
 
-Projeto simples desenvolvido em Java para praticar lógica de programação e estruturas de controle.
+Projeto simples desenvolvido em Java para praticar lógica de programação.
 
 ## Funcionalidades
 
-✔ Validação de senha  
-✔ Senha padrão (`1234`)  
-✔ Senha mestra (`admin`)  
-✔ Limite de 3 tentativas  
-✔ Bloqueio do sistema após erros consecutivos  
-✔ Tratamento de espaços com `.trim()`
-
-## Tecnologias utilizadas
-
-- Java
-- IntelliJ IDEA
+- Adicionar itens
+- Exibir lista
+- Manipulação de entrada do usuário
 
 ## Conceitos praticados
 
 - Scanner
+- ArrayList (se usou)
+- Loops
+- if/else
 - Variáveis
-- String
-- if / else
-- Operador lógico `||`
-- do while
-- Comparação de Strings com `.equals()`
-- Manipulação de entrada com `.trim()`
 
-## Como executar
+## Tecnologias
 
-1. Clone o repositório
-2. Abra no IntelliJ IDEA
-3. Execute o arquivo `SenhaPorta.java`
+- Java
+- IntelliJ IDEA# Lista de Compras em Java
 
-## Exemplo de uso
+Projeto simples desenvolvido em Java para praticar lógica de programação.
 
-```text
-Digite a senha:
-1234
+## Funcionalidades
 
-Acesso autorizado!
-```
+- Adicionar itens
+- Exibir lista
+- Manipulação de entrada do usuário
 
-ou
+## Conceitos praticados
 
-```text
-Digite a senha:
-9999
+- Scanner
+- ArrayList (se usou)
+- Loops
+- if/else
+- Variáveis
 
-Acesso negado, ainda restam 2 tentativas
-```
+## Tecnologias
 
-## Autor
-
-Patrick Almeida
+- Java
+- IntelliJ IDEA
